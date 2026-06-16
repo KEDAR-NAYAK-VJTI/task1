@@ -1,2 +1,9 @@
-# task1
-This is the Task 1 related to OpenCV given for ProjectX selection
+# Task 1
+
+This repository contains the solution for Task 1.
+
+## Files
+- task1.ipynb : Jupyter Notebook containing the implementation.
+
+## Author
+Kedar Damodar Nayak
